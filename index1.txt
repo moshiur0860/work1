@@ -1,2 +1,3 @@
 this  is the first comment on index1.txt file
 this is the second comment on index1.txt file.
+this is text for master file 
